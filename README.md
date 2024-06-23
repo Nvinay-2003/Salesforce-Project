@@ -146,3 +146,14 @@ The Rice Mill CRM Application is designed to streamline daily rice tracking, sal
 
 ## Conclusion
 The Rice Mill CRM Application is an efficient tool designed to optimize the operations of a rice mill factory, ensuring all crucial data is tracked, reported, and accessible to owners for better decision-making.
+
+## Output screenshots
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/36418fb5-9135-4f3d-a33e-e3a99cab6ec3)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/6892826a-ad95-423a-b048-d0f1b5b0c01e)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/9db4884a-1238-4d38-94d9-4588e09c307f)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/ec4c70d4-020c-4017-afdc-c22d47eb9d59)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/60272a46-22f5-41fd-8ccd-7a6b69e41cd8)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/a83cee84-25a7-41fa-b0e1-eb1e7df31033)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/eb4bcbce-4ae8-450f-9bc7-36a68ffb5a31)
+![image](https://github.com/Nvinay-2003/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL/assets/111642478/fcdac646-4d88-4dc9-8e2f-e3367e457a7a)
+
